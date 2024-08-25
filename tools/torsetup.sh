@@ -47,3 +47,4 @@ echo "Tor will now run automatically and publish the bitcoin node as a hidden se
 echo "Bitcoin will only connect to peers over the Tor Onion network."
 echo "Your Tor hidden service address for bitcoin is $onion"
 echo "run ./btcwatch.sh to start bitcoin now"
+
